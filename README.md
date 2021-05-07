@@ -12,6 +12,6 @@ Currently running:
 | OpenCore      | 0.6.9        |
 | BIOS version  | TBC        |
 
-To be completed by end of May 2021
+BIOS settings and others comments to be completed by end of May 2021
 
 
